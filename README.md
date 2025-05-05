@@ -42,7 +42,6 @@ ML-project.ipynb # Jupyter Notebook with all code and outputs
 
 Install them (if not already):
 
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
