@@ -58,6 +58,9 @@ Prediction results compared with actual values
 👉 Run the notebook (ML-project.ipynb) to see detailed outputs.
 
 ✨ Output Example
+![image](https://github.com/user-attachments/assets/136fac59-f450-478a-adac-966fb79c5246)
+
+
 Predicted: ['setosa']
 Actual: ['setosa']
 Accuracy: 0.97
@@ -79,11 +82,4 @@ MERN & Python Trainer | Full Stack Developer
 📝 License
 This project is open-source under the MIT License.
 
-
----
-
-Let me know if you want to:
-- Add screenshots or output charts as images in the README
-- Convert the notebook to a Python script
-- Host a demo version on Streamlit or Hugging Face Spaces
 
